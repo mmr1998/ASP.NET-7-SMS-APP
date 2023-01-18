@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\asp\\project\\net7mvcProject\\SMSAPP\\SMSAPP\\SMSAPP.csproj",
+      "projectUniqueName": "D:\\asp\\project\\net7mvcProject\\ASP.NET-7-SMS-APP\\SMSAPP\\SMSAPP.csproj",
       "projectName": "SMSAPP",
-      "projectPath": "D:\\asp\\project\\net7mvcProject\\SMSAPP\\SMSAPP\\SMSAPP.csproj",
+      "projectPath": "D:\\asp\\project\\net7mvcProject\\ASP.NET-7-SMS-APP\\SMSAPP\\SMSAPP.csproj",
       "packagesPath": "C:\\Users\\mrmmr\\.nuget\\packages\\",
-      "outputPath": "D:\\asp\\project\\net7mvcProject\\SMSAPP\\SMSAPP\\obj\\",
+      "outputPath": "D:\\asp\\project\\net7mvcProject\\ASP.NET-7-SMS-APP\\SMSAPP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mrmmr\\AppData\\Roaming\\NuGet\\NuGet.Config",

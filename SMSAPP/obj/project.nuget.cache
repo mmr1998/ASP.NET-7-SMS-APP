@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w4ZEA1NUd0S9od5/7qynZMikQtwhtrSPa4lzfMjLRSQGsEvyjeYgviUxp0XBwrjnWP3ryEuhODnKvEIYfDfc5Q==",
+  "dgSpecHash": "WMdt5U7RIrxTUrRsrGSH3X/aE8lW4nOJwiJO8d46vaStJ+2YMDsMMR3auq0AXi5E6lcVTRoIBTYkUlmx9AXpQg==",
   "success": true,
-  "projectFilePath": "D:\\asp\\project\\net7mvcProject\\SMSAPP\\SMSAPP\\SMSAPP.csproj",
+  "projectFilePath": "D:\\asp\\project\\net7mvcProject\\ASP.NET-7-SMS-APP\\SMSAPP\\SMSAPP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
