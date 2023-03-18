@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SMSAPP.Data;
 
 namespace SMSAPP.Controllers
 {
+    [Authorize]
     public class LecturersController : Controller
     {
         private readonly SmsDbContext _context;

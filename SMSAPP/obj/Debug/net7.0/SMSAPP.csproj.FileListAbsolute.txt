@@ -37,9 +37,11 @@ D:\asp\project\net7mvcProject\ASP.NET-7-SMS-APP\SMSAPP\bin\Debug\net7.0\SMSAPP.d
 D:\asp\project\net7mvcProject\ASP.NET-7-SMS-APP\SMSAPP\bin\Debug\net7.0\SMSAPP.runtimeconfig.json
 D:\asp\project\net7mvcProject\ASP.NET-7-SMS-APP\SMSAPP\bin\Debug\net7.0\SMSAPP.dll
 D:\asp\project\net7mvcProject\ASP.NET-7-SMS-APP\SMSAPP\bin\Debug\net7.0\SMSAPP.pdb
+D:\asp\project\net7mvcProject\ASP.NET-7-SMS-APP\SMSAPP\bin\Debug\net7.0\Auth0.AspNetCore.Authentication.dll
 D:\asp\project\net7mvcProject\ASP.NET-7-SMS-APP\SMSAPP\bin\Debug\net7.0\Azure.Core.dll
 D:\asp\project\net7mvcProject\ASP.NET-7-SMS-APP\SMSAPP\bin\Debug\net7.0\Azure.Identity.dll
 D:\asp\project\net7mvcProject\ASP.NET-7-SMS-APP\SMSAPP\bin\Debug\net7.0\Humanizer.dll
+D:\asp\project\net7mvcProject\ASP.NET-7-SMS-APP\SMSAPP\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 D:\asp\project\net7mvcProject\ASP.NET-7-SMS-APP\SMSAPP\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
 D:\asp\project\net7mvcProject\ASP.NET-7-SMS-APP\SMSAPP\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\asp\project\net7mvcProject\ASP.NET-7-SMS-APP\SMSAPP\bin\Debug\net7.0\Microsoft.Build.dll

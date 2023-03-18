@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SMSAPP.Data;
 
 namespace SMSAPP.Controllers
 {
+    [Authorize]
     public class CoursesController : Controller
     {
         private readonly SmsDbContext _context;
@@ -40,6 +42,7 @@ namespace SMSAPP.Controllers
         }
 
         // GET: Courses/Create
+        
         public IActionResult Create()
         {
             return View();

@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "pd7FqRt05lurCcoO2uoTIxNGzo+JnkYs6XInD5lY7gQiMWvKqciQo4otOeHsXdCd7DfvxKITuN2vXbxj/ArDhg==",
+  "dgSpecHash": "a3OlCMSEX+aHuu+aTCB/7OtCaYT5VbrAk/AWy8eRFksmCgTQlDVWiNQLlKHsFDSgp+QA02Ol0zWm3rsB8M+a+Q==",
   "success": true,
   "projectFilePath": "D:\\asp\\project\\net7mvcProject\\ASP.NET-7-SMS-APP\\SMSAPP\\SMSAPP.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mrmmr\\.nuget\\packages\\auth0.aspnetcore.authentication\\1.2.0\\auth0.aspnetcore.authentication.1.2.0.nupkg.sha512",
     "C:\\Users\\mrmmr\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mrmmr\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\mrmmr\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\mrmmr\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\7.0.3\\microsoft.aspnetcore.authentication.openidconnect.7.0.3.nupkg.sha512",
     "C:\\Users\\mrmmr\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "C:\\Users\\mrmmr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\mrmmr\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",
